@@ -1,0 +1,6 @@
+####  Beam Energy Errors ###########
+* tartget     projectile     E_projectile       BeamEnergyErr
+ CH2          48Ca           28 MeV/u           +/- 0.5%
+ CH2          48Ca           56.6 MeV/u         +/- 0.5%
+ CH2          48Ca           139.8 MeV/u        +/- 0.2%
+ 
